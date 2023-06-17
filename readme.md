@@ -12,11 +12,11 @@ python gifg.pyの後に各種引数を指定して実行してください。gif
 
 ●requirements
 
-・python(3.10.11で動作確認済み)
-・rdkit
-・pubchempy
-・argparse
-・pandas  
+・python(3.10.11で動作確認済み)<br>
+・rdkit<br>
+・pubchempy<br>
+・argparse<br>
+・pandas<br>  
 
 ●引数の一覧
 
